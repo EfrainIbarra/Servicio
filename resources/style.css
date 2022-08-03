@@ -1,0 +1,30 @@
+.color-bg {
+    background: linear-gradient(150deg, #ca4848, #383c6b);
+}
+
+.color-bg2 {
+    background-color: rgba(0, 0, 0, 0.26);
+    color: white;
+}
+
+.color-bg3 {
+    background-color: transparent;
+}
+
+.color-bg4 {
+    background: linear-gradient(290deg, #bb0000, #000000);
+    color: white;
+}
+
+.color-bg5 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+}
